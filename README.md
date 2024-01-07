@@ -8,7 +8,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="integrated-collector-storage-with-movable-insulation-layer">Integrated Collector Storage with Movable Insulation Layer</h1>
+  <div class="stackedit__html"><h1 id="F-Chart">F-Chart Analysis</h1>
 <h2 id="overview">Overview</h2>
 <p>This project presents an F-chart analysis tool, a graphical method designed to calculate the hourly energy performance of solar thermal collectors. It enables users to determine the proportion of Domestic Hot Water (DHW) needs that can be met by solar energy over a year. This tool is particularly useful for assessing annual energy savings and CO2 reductions based on the type of energy source used in DHW production.</p>
 <h2 id="project-details">Project Details</h2>
